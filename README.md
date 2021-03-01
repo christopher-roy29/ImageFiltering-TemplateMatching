@@ -1,5 +1,5 @@
 # ImageFiltering-TemplateMatching
-Two different tasks (Image Smoothing and Template Matching) are implemented in this project. The objective of first task is to perform image smoothing and image sharpening using a low-pass filter and a high-pass filter. The objective of second task is to match a template over a bigger image using normalized cross correlation metric.
+Two different tasks (Image Smoothing and Template Matching) are implemented in this project. The objective of first task is to perform image smoothing and image sharpening using a low-pass filter and a high-pass filter. The objective of second task is to match a template over a bigger image using normalized cross correlation metric.
 The results of first task are stored in "./results/" and are named as \low-pass.jpg" and \high-pass.jpg". 
 
 ![image](https://user-images.githubusercontent.com/36618302/109545513-f17b3a00-7a96-11eb-934c-c0348a864770.png)
