@@ -1,17 +1,3 @@
-"""
-Template Matching
-(Due date: Sep. 25, 3 P.M., 2019)
-
-The goal of this task is to experiment with template matching techniques, i.e., normalized cross correlation (NCC).
-
-Please complete all the functions that are labelled with '# TODO'. When implementing those functions, comment the lines 'raise NotImplementedError' instead of deleting them. The functions defined in 'utils.py'
-and the functions you implement in 'task1.py' are of great help.
-
-Do NOT modify the code provided to you.
-Do NOT use ANY API provided by opencv (cv2) and numpy (np) in your code.
-Do NOT import ANY library (function, module, etc.).
-"""
-
 
 import argparse
 import json
